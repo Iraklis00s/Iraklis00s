@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there, I'm Iraklis! 👋
 
-<!--
-**Iraklis00s/Iraklis00s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Informatics and Telecommunications student at the University of Ioannina, passionate about Data Analytics, Business Intelligence, and modern tech stacks.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently exploring **Data Engineering, SQL, and Power BI**.
+- 📊 Focused on building end-to-end data workflows and interactive dashboards.
+- ⚡ Fun fact: Always automating, optimizing, and building tech projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+- **Data & BI:** Power BI, Microsoft Fabric, SQL Server, Power Query, ETL
+- **Programming & Scripting:** C, Python, PowerShell
+- **Systems & Networking:** Linux, Docker, Git, Wireshark
+
+---
+
+### 🌐 Connect with me
+- [LinkedIn Profile](https://www.linkedin.com/in/iraklis-vranos/)
